@@ -1,0 +1,7 @@
+../Core/Src/sll_stack.c:12:6:initStack	1
+../Core/Src/sll_stack.c:17:5:isEmpty	1
+../Core/Src/sll_stack.c:22:6:push	2
+../Core/Src/sll_stack.c:34:5:pop	2
+../Core/Src/sll_stack.c:47:5:peek	2
+../Core/Src/sll_stack.c:56:5:precedence	5
+../Core/Src/sll_stack.c:66:5:applyOperator	5

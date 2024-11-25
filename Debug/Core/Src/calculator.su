@@ -1,0 +1,3 @@
+../Core/Src/calculator.c:12:6:infixToPostfix	40	static
+../Core/Src/calculator.c:57:5:evaluatePostfix	40	static
+../Core/Src/calculator.c:84:5:evaluate	24	static
